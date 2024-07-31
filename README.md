@@ -1,1 +1,1 @@
-# MAG
+# HyRel
